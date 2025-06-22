@@ -1,4 +1,3 @@
-
 # Long Short-Term Memory (LSTM) Neural Networks
 
 ## What is LSTM?
