@@ -61,6 +61,8 @@ An LSTM unit consists of:
 
   ![LSTM Architecture]()
 
+
+
 ## Key Strengths of LSTM
 
 - Allow selective memory and forgetting  
