@@ -45,6 +45,13 @@ Decides what information to discard from the cell state.
 🔹 **Input Gate**
 Determines which new information to store in the cell state.
 
+
+![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Input_Gate.png?raw=true)
+
+
+🔹 **Cell State Update**
+Updates the cell state using the forget and input gates.
+
 ## Key Strengths of LSTM
 
 - Allow selective memory and forgetting  
