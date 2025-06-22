@@ -39,7 +39,7 @@ An LSTM unit consists of:
 Decides what information to discard from the cell state.
 
 
-![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Forgot_Gate.png?raw=true)
+![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Forget_Gate.png?raw=true)
 
 
 🔹 **Input Gate**
