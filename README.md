@@ -59,7 +59,7 @@ An LSTM unit consists of:
 🔹 **Output Gate**
 - Determines what to output.
 
-  ![LSTM Architecture]()
+  ![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Output_Gate.png?raw=true)
 
 
 
