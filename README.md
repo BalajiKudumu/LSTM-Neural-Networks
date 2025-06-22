@@ -37,4 +37,4 @@ An LSTM unit consists of:
 - Reduce vanishing gradient problems  
 - Make LSTM effective for sequential data 
 
-## The repository performs LSTM Neural Network to Predict Next Word
+## This repository implements an LSTM Neural Network in Python for Next Word Prediction in Natural Language Processing (NLP) tasks.
