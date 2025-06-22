@@ -36,21 +36,30 @@ An LSTM unit consists of:
 - Output Gate
 
 🔹**Forget Gate**
-Decides what information to discard from the cell state.
+- Decides what information to discard from the cell state.
 
 
 ![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Forget_Gate.png?raw=true)
 
 
 🔹 **Input Gate**
-Determines which new information to store in the cell state.
+- Determines which new information to store in the cell state.
 
 
 ![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Input_Gate.png?raw=true)
 
 
 🔹 **Cell State Update**
-Updates the cell state using the forget and input gates.
+- Updates the cell state using the forget and input gates.
+
+  
+![LSTM Architecture](https://github.com/BalajiKudumu/LSTM-NeuralNetworks/blob/main/Cell_State_Update.png?raw=true)
+
+
+🔹 **Output Gate**
+- Determines what to output.
+
+  ![LSTM Architecture]()
 
 ## Key Strengths of LSTM
 
