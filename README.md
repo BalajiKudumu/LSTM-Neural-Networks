@@ -70,3 +70,15 @@ An LSTM unit consists of:
 - Make LSTM effective for sequential data 
 
 ## This repository implements an LSTM Neural Network in Python for Next Word Prediction in Natural Language Processing (NLP) tasks.
+
+
+## 📬 Contact
+
+Maintained by **Balaji Kudumu**  
+If you use this project in your research, please give appropriate credit.
+
+---
+
+## 📄 License
+
+MIT License - see `LICENSE` file for details.
